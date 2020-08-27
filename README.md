@@ -1,2 +1,2 @@
 # http-request-python
-Simple http request with socket made in python.
+Simple http request with socket made using python.
